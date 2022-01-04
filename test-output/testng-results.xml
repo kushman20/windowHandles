@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30221" started-at="2021-12-22T17:51:38Z" finished-at="2021-12-22T17:52:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30221" started-at="2021-12-22T17:51:38Z" finished-at="2021-12-22T17:52:08Z">
+      <class name="windowHandles.tabClick">
+        <test-method status="PASS" signature="setup()[pri:0, instance:windowHandles.tabClick@31dc339b]" name="setup" is-config="true" duration-ms="13828" started-at="2021-12-22T17:51:38Z" finished-at="2021-12-22T17:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="greenkartHome()[pri:1, instance:windowHandles.tabClick@31dc339b]" name="greenkartHome" duration-ms="82" started-at="2021-12-22T17:51:52Z" finished-at="2021-12-22T17:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- greenkartHome -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:windowHandles.tabClick@31dc339b]" name="tearDown" is-config="true" duration-ms="613" started-at="2021-12-22T17:51:52Z" finished-at="2021-12-22T17:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:windowHandles.tabClick@31dc339b]" name="setup" is-config="true" duration-ms="3284" started-at="2021-12-22T17:51:53Z" finished-at="2021-12-22T17:51:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="documentpage()[pri:2, instance:windowHandles.tabClick@31dc339b]" name="documentpage" duration-ms="4503" started-at="2021-12-22T17:51:56Z" finished-at="2021-12-22T17:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- documentpage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:windowHandles.tabClick@31dc339b]" name="tearDown" is-config="true" duration-ms="734" started-at="2021-12-22T17:52:01Z" finished-at="2021-12-22T17:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:windowHandles.tabClick@31dc339b]" name="setup" is-config="true" duration-ms="2882" started-at="2021-12-22T17:52:01Z" finished-at="2021-12-22T17:52:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="javaAlert()[pri:3, instance:windowHandles.tabClick@31dc339b]" name="javaAlert" duration-ms="3598" started-at="2021-12-22T17:52:04Z" finished-at="2021-12-22T17:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- javaAlert -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:windowHandles.tabClick@31dc339b]" name="tearDown" is-config="true" duration-ms="646" started-at="2021-12-22T17:52:08Z" finished-at="2021-12-22T17:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- windowHandles.tabClick -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
